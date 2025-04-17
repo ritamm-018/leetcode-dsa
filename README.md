@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
