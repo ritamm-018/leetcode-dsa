@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritamm-018/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritamm-018/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
