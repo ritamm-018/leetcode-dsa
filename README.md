@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ritamm-018/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ritamm-018/leetcode-dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ritamm-018/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ritamm-018/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
