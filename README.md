@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritamm-018/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ritamm-018/leetcode-dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ritamm-018/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
