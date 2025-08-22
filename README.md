@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ritamm-018/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/ritamm-018/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ritamm-018/leetcode-dsa/tree/master/0058-length-of-last-word) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ritamm-018/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
