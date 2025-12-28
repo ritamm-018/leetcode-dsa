@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/ritamm-018/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/ritamm-018/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ritamm-018/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ritamm-018/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
