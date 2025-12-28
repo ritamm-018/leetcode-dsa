@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/ritamm-018/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ritamm-018/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/2058-concatenation-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ritamm-018/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
