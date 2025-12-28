@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ritamm-018/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/ritamm-018/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
