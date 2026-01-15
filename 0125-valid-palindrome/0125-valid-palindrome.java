@@ -7,12 +7,15 @@ class Solution {
             while(start < end && !Character.isLetterOrDigit(s.charAt(start))){
                 start++;
             }
+
             while(start < end && !Character.isLetterOrDigit(s.charAt(end))){
                 end--;
             }
+
             if(Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end))){
                 return false;
             }
+
             start++;
             end--;
         }
