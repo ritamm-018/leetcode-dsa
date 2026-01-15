@@ -7,12 +7,15 @@ class Solution {
         int pos = nums.length - 1;
 
         while(start <= end){
-            if(nums[start] * nums[start] > nums[end] * nums[end]){
-                res[pos] = nums[start] * nums[start];
+            int start_sq = nums[start] * nums[start];
+            int end_sq = nums[end] * nums[end];
+
+            if(start_sq > end_sq){
+                res[pos] = start_sq;
                 start++;
             }
             else{
-                res[pos] = nums[end] * nums[end];
+                res[pos] = end_sq;
                 end--;
             }
             pos--;
