@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritamm-018/leetcode-dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ritamm-018/leetcode-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritamm-018/leetcode-dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritamm-018/leetcode-dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
 |  |
 | ------- |
