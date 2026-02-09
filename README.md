@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritamm-018/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ritamm-018/leetcode-dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ritamm-018/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritamm-018/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritamm-018/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ritamm-018/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ritamm-018/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ritamm-018/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/ritamm-018/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritamm-018/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritamm-018/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/ritamm-018/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritamm-018/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ritamm-018/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritamm-018/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
